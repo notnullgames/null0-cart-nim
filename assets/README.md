@@ -1,0 +1,1 @@
+Put your assets (images, sounds, etc) in this directory.

@@ -1,3 +1,6 @@
 nimcache/
 nimblecache/
 htmldocs/
+*.wasm
+*.null0
+.DS_Store
